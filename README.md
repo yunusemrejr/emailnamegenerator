@@ -1,4 +1,4 @@
-# emailnamegenerator
+# E-mail Name Idea Generator
 JavaScript email name idea generator script. (includes Blogger.com platform specific classes in HTML)
 
 I programmed this for my personal Blogger.com website (a Google product used for hosting free blogs with customizable front-end, also known as "Blogspot"),
